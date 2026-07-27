@@ -1,0 +1,24 @@
+{
+  "nav": {
+    "home": "Home",
+    "poses": "Yoga Poses",
+    "videos": "Videos",
+    "predict": "Health Check",
+    "chatbot": "Ask the Assistant"
+  },
+  "home": {
+    "title": "Find balance, one pose at a time",
+    "subtitle": "Personalized yoga, diet, and lifestyle guidance based on your health profile.",
+    "cta": "Start your health check"
+  },
+  "pose": {
+    "benefits": "Benefits",
+    "steps": "How to do it",
+    "precautions": "Precautions"
+  },
+  "language": {
+    "label": "Language",
+    "en": "English",
+    "hi": "हिन्दी"
+  }
+}

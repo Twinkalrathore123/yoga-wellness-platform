@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-sage-50 text-ink font-body;
+}
+
+/* When the active language is Hindi, switch body text to the Devanagari-friendly font */
+html[lang='hi'] body {
+  @apply font-devanagari;
+} 

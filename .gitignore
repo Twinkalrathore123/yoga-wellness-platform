@@ -1,0 +1,17 @@
+# Environment secrets — never commit these
+.env
+backend-setup/.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pkl
+
+# Node
+node_modules/
+dist/
+
+# OS files
+.DS_Store
+Thumbs.db
