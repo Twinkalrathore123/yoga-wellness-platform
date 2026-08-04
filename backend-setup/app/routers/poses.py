@@ -1,6 +1,6 @@
 from fastapi import APIRouter, HTTPException
-from typing import Optional
-from bson import ObjectId
+from typing import Optional;
+from bson import ObjectId;
 from bson.errors import InvalidId
 
 from app.database import poses_collection
